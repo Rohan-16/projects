@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Life
+comment1.params=s\ t
+comment1.target=Life(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ generate()
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
